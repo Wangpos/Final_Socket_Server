@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@prisma/client": "5.15.0",
-    "figlet": "^1.7.0"
+    "figlet": "^1.9.3"
   },
   "version": "1.0.0",
   "description": "To install dependencies:",
